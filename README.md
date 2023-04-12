@@ -10,7 +10,7 @@
 
 - Prashant Tomar
 - 22
-- Software Engineer (1 year experience)
+- Software Engineer (1.5 year experience)
 - Full stack developer
 - Started coding in **2018** as computer science student
 - Experience with **`Python`** and **`Django`**
