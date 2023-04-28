@@ -5,6 +5,7 @@
 <hr/>
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Myth0069&label=Profile%20views&color=0e75b6&style=plastic" alt="myth" /> </p>
+<p alght="center"> <img src="https://img.shields.io/github/watchers/Prashant0069/Prashant0069?style=social" alt="watcher" /> </p>
 
 ## ✍ About Me
 
