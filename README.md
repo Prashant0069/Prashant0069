@@ -10,7 +10,7 @@
 ## ✍ About Me
 
 - Prashant Tomar
-- 23
+- 24
 - Software Engineer (2.8 year experience)
 - Full stack developer
 - Started coding in **2018** as computer science student
